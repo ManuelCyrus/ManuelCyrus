@@ -49,7 +49,7 @@ Shadow Monarch of Code • System Chosen • Eternal Ascension • Student @ 42L
 
 ## 🐍 ARMY OF SHADOWS 🐍
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=seuusuario&theme=react-dark&hide_border=true" alt="Army of Shadows Chart" width="100%">
+  <img src="https://comicbook.com/wp-content/uploads/sites/4/2022/07/a434172f-17bd-43f2-b895-31c0e1da0d91.jpg?w=1200" alt="Army of Shadows Chart" width="100%">
 </p>
 
 *Cada commit alimenta a cobra sombria… o exército cresce a cada batalha.*
