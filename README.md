@@ -45,15 +45,6 @@
 
 ---
 
-# 🩸 SHADOW POWER 🩸
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelCyrus&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=5B00A3&icon_color=5B00A3&ring_color=5B00A3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCyrus&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=5B00A3"/>
-</p>
-
----
-
 # 🔥 ETERNAL BATTLE STREAK 🔥
 
 <p align="center">
@@ -83,4 +74,3 @@
 
 ---
 
-⚔️ "Power is not given. It is awakened." ⚔️
