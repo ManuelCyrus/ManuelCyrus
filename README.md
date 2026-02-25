@@ -1,62 +1,67 @@
-<!-- ╔══════════════════════════════╗ -->
-<!--        🌑 SHADOW PORTAL 🌑     -->
-<!-- ╚══════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════╗ -->
+<!--        ⚔️  SHADOW THRONE  ⚔️           -->
+<!-- ╚══════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ARISE.&fontSize=80&color=0:000000,100:8A2BE2&stroke=8A2BE2&animation=twinkling" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Monarca+do+C%C3%B3digo;Shadow+Developer;Rank+S+Bug+Hunter;Evoluindo+a+cada+commit..." />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=⚔%20ARISE%20MANUELCYRUS%20⚔&fontSize=55&color=0:000000,100:2B003A&stroke=5B00A3&animation=twinkling&fontColor=E6E6FA" />
 </p>
 
 <p align="center">
   <img src="https://media.tenor.com/7Xq0G4zvG2sAAAAC/solo-leveling-sung-jinwoo.gif" width="85%" />
 </p>
 
-<h1 align="center">🖤 ManuelCyrus 🖤</h1>
-<h3 align="center">⚔️ O Sistema me escolheu... agora eu subo de nível.</h3>
+<h1 align="center">⚔️🖤 ManuelCyrus 🖤⚔️</h1>
+<h3 align="center">Shadow Monarch of Code • System Chosen • Eternal Ascension</h3>
 
 ---
 
-## 🌑 STATUS DO CAÇADOR
+# ⚔️ SYSTEM STATUS ⚔️
 
 ```diff
-+ Rank: Ascendendo para SSS
-+ Classe: Shadow Full Stack Hunter
-+ Mana: █████████████████ 100%
-+ Especialidade: React • Node • Python • Sistemas Escaláveis
-+ Localização: Angola
++ Title: Shadow Monarch
++ Rank: SSS
++ Awakening: Complete
++ Mana Core: ███████████████████ 100%
++ Domain: Full Stack Development
++ Special Ability: Turning Bugs into Shadows
 ```
 
 ---
 
-## 🛡️ ARSENAL SOMBRIO
+# 🗡️ WEAPONS OF THE MONARCH 🗡️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,git,github,vscode,figma&theme=dark" />
+
+<img src="https://img.shields.io/badge/⚔️_HTML-0D0D0D?style=for-the-badge&logo=html5&logoColor=5B00A3"/>
+<img src="https://img.shields.io/badge/⚔️_CSS-0D0D0D?style=for-the-badge&logo=css3&logoColor=5B00A3"/>
+<img src="https://img.shields.io/badge/⚔️_JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=5B00A3"/>
+<img src="https://img.shields.io/badge/⚔️_TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=5B00A3"/>
+<img src="https://img.shields.io/badge/⚔️_Python-0D0D0D?style=for-the-badge&logo=python&logoColor=5B00A3"/>
+<img src="https://img.shields.io/badge/⚔️_React-0D0D0D?style=for-the-badge&logo=react&logoColor=5B00A3"/>
+<img src="https://img.shields.io/badge/⚔️_Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=5B00A3"/>
+
 </p>
 
 ---
 
-## ⚡ NÍVEL DE PODER (ANIMADO)
+# 🩸 SHADOW POWER 🩸
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TEUUSERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&ring_color=8A2BE2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEUUSERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelCyrus&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=5B00A3&icon_color=5B00A3&ring_color=5B00A3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCyrus&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=5B00A3"/>
 </p>
 
 ---
 
-## 🔥 STREAK DE BATALHAS
+# 🔥 ETERNAL BATTLE STREAK 🔥
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManuelCyrus&theme=radical&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
+  <img src="https://streak-stats.demolab.com?user=ManuelCyrus&theme=radical&hide_border=true&background=000000&ring=5B00A3&fire=5B00A3&currStreakLabel=5B00A3" />
 </p>
 
 ---
 
-## 🐍 EXÉRCITO DAS SOMBRAS (Contribuições)
+# 🐍 ARMY OF SHADOWS 🐍
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
@@ -64,14 +69,10 @@
 
 ---
 
-## 👁️ FRASE DO MONARCA
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Eu+n%C3%A3o+fico+mais+fraco...;Eu+subo+de+n%C3%ADvel." />
+⚔️ "Power is not given. It is awakened." ⚔️
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:8A2BE2,100:000000&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2B003A,100:000000&section=footer"/>
 </p>
