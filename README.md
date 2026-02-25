@@ -10,7 +10,7 @@
 
 ### 🧠 Sobre mim
 
-- 🌍 Angola
+- 🌍 Portugal
 - 💻 Full Stack em evolução
 - 🎮 Amo animes e tecnologia
 - ⚡ Sempre aprendendo algo novo
