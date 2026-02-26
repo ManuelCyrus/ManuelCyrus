@@ -1,59 +1,63 @@
-<!-- ╔══════════════════════════════════════╗ -->
-<!--        ⚔️  SHADOW THRONE  ⚔️           -->
-<!-- ╚══════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════╗ -->
+<!--        🌑 SHADOW PORTAL 🌑     -->
+<!-- ╚══════════════════════════════╝ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=⚔%20ARISE%20MANUELCYRUS%20⚔&fontSize=55&color=0:000000,100:2B003A&stroke=5B00A3&animation=twinkling&fontColor=E6E6FA" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ARISE.&fontSize=80&color=0:000000,100:8A2BE2&stroke=8A2BE2&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/ae149e01fac5905ca59667612325b6295d1951b9db9ff529bad4f972ae17d8e8/68747470733a2f2f692e6962622e636f2f357232574a5a792f456c61696e612d576974682d4566666563746976652d507974686f6e2d312d322e77656270" width="600" alt="Sung Jin-Woo Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Monarca+do+C%C3%B3digo;Shadow+Developer;Rank+S+Bug+Hunter;Evoluindo+a+cada+commit..." />
 </p>
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/4ad3e5766d6c2dd80275b08913229717a3a3195d0c4e0b9e381aeaa97691c256/68747470733a2f2f636f6d6963626f6f6b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f73697465732f342f323032322f30372f61343334313732662d313762642d343366322d623839352d3331633065316461306439312e6a70673f773d31323030" width="85%" />
+</p>
 
-
-<h1 align="center">⚔️🖤 ManuelCyrus 🖤⚔️</h1>
-<h3 align="center">Shadow Monarch of Code • System Chosen • Eternal Ascension</h3>
+<h1 align="center">🖤 MANUELCYRUS 🖤</h1>
+<h3 align="center">⚔️ O Sistema me escolheu... agora eu subo de nível.</h3>
 
 ---
 
-# ⚔️ SYSTEM STATUS ⚔️
+## 🌑 STATUS DO CAÇADOR
 
 ```diff
-+ Title: Shadow Monarch
-+ Rank: SSS
-+ Awakening: Complete
-+ Mana Core: ███████████████████ 100%
-+ Domain: Full Stack Development
-+ Special Ability: Turning Bugs into Shadows
++ Rank: Ascendendo para SSS
++ Classe: Shadow Full Stack Hunter
++ Mana: █████████████████ 100%
++ Especialidade: React • Node • Python • Sistemas Escaláveis
++ Localização: Portugal
 ```
 
 ---
 
-# 🗡️ WEAPONS OF THE MONARCH 🗡️
+## 🛡️ ARSENAL SOMBRIO
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/⚔️_HTML-0D0D0D?style=for-the-badge&logo=html5&logoColor=5B00A3"/>
-<img src="https://img.shields.io/badge/⚔️_CSS-0D0D0D?style=for-the-badge&logo=css3&logoColor=5B00A3"/>
-<img src="https://img.shields.io/badge/⚔️_JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=5B00A3"/>
-<img src="https://img.shields.io/badge/⚔️_TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=5B00A3"/>
-<img src="https://img.shields.io/badge/⚔️_Python-0D0D0D?style=for-the-badge&logo=python&logoColor=5B00A3"/>
-<img src="https://img.shields.io/badge/⚔️_React-0D0D0D?style=for-the-badge&logo=react&logoColor=5B00A3"/>
-<img src="https://img.shields.io/badge/⚔️_Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=5B00A3"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-# 🔥 ETERNAL BATTLE STREAK 🔥
+## ⚡ NÍVEL DE PODER (ANIMADO)
+
+ 
+ <p align="center">
+  <img src="https://i.pinimg.com/originals/7f/3a/15/7f3a1523f92e9a1c08e4d5c6f5d51c7a.jpg" width="200" alt="solo leveling 1"/>
+  <img src="https://i.pinimg.com/originals/1d/72/8c/1d728c7b1a3a7c6e2b9a7b8b7a1d5f2c.jpg" width="200" alt="solo leveling 2"/>
+  <img src="https://i.pinimg.com/originals/3c/4f/77/3c4f7770c4f5f3a1b9d4e7b8d5a1c2f0.jpg" width="200" alt="solo leveling 3"/>
+</p>
+---
+
+## 🔥 STREAK DE BATALHAS
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManuelCyrus&theme=radical&hide_border=true&background=000000&ring=5B00A3&fire=5B00A3&currStreakLabel=5B00A3" />
+  <img src="https://streak-stats.demolab.com?user=ManuelCyrus&theme=radical&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
 </p>
 
 ---
 
-# 🐍 ARMY OF SHADOWS 🐍
+## 🐍 EXÉRCITO DAS SOMBRAS (Contribuições)
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
@@ -61,16 +65,14 @@
 
 ---
 
+## 👁️ FRASE DO MONARCA
+
 <p align="center">
-⚔️ "Power is not given. It is awakened." ⚔️
-</p>
-## 🐍 ARMY OF SHADOWS 🐍
-<p align="center">
-  <img src="https://comicbook.com/wp-content/uploads/sites/4/2022/07/a434172f-17bd-43f2-b895-31c0e1da0d91.jpg?w=1200" alt="Army of Shadows Chart" width="100%">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2B003A,100:000000&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Eu+n%C3%A3o+fico+mais+fraco...;Eu+subo+de+n%C3%ADvel." />
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:8A2BE2,100:000000&section=footer&animation=fadeIn"/>
+</p>
