@@ -39,15 +39,16 @@
 
 ---
 
-## ⚡ NÍVEL DE PODER (ANIMADO)
+## ⚡ NÍVEL DE PODER
 
- 
- <p align="center">
-  <img src="https://i.pinimg.com/originals/7f/3a/15/7f3a1523f92e9a1c08e4d5c6f5d51c7a.jpg" width="200" alt="solo leveling 1"/>
-  <img src="https://i.pinimg.com/originals/1d/72/8c/1d728c7b1a3a7c6e2b9a7b8b7a1d5f2c.jpg" width="200" alt="solo leveling 2"/>
-  <img src="https://i.pinimg.com/originals/3c/4f/77/3c4f7770c4f5f3a1b9d4e7b8d5a1c2f0.jpg" width="200" alt="solo leveling 3"/>
+<p align="center">
+  🔥 🔥 🔥 🔥 🔥  
+  ⚔️ ⚔️ ⚔️ ⚔️  
+  💀 💀 💀
 </p>
+
 ---
+
 
 ## 🔥 STREAK DE BATALHAS
 
