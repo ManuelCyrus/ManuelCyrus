@@ -4,7 +4,7 @@
 
 ---
 
-## Sobre Mim
+## About me
 Dedicated and curious developer, passionate about learning and exploring new technologies.  
 
 Always striving to improve my skills and deepen my understanding of the development world.
