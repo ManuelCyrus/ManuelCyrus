@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/64f2b8f224181003d33446b462dacf69.png" width="50%" alt="banner"/>
+<img src="assets/64f2b8f224181003d33446b462dacf69.png" width="30%" alt="banner"/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:5b0e8b,100:9d4edd&height=220&section=header&text=Manuel%20Cyrus&fontSize=60&fontColor=e0aaff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Python%20•%20React%20•%20Node.js%20•%20C%20|%20Portugal&descAlignY=55&descSize=18&descColor=c77dff" width="100%"/>
@@ -27,29 +27,14 @@ Always striving to improve my skills and deepen my understanding of the developm
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=midnight-purple&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-5b0e8b?style=for-the-badge&logo=linkedin&logoColor=e0aaff"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-3c096c?style=for-the-badge&logo=gmail&logoColor=e0aaff"/></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-10002b?style=for-the-badge&logo=github&logoColor=e0aaff"/></a>
+  <a href="https://linkedin.com/in/manuelfulama"><img src="https://img.shields.io/badge/LinkedIn-5b0e8b?style=for-the-badge&logo=linkedin&logoColor=e0aaff"/></a>
+ 
+  <a href="https://github.com/ManuelCyrus"><img src="https://img.shields.io/badge/GitHub-10002b?style=for-the-badge&logo=github&logoColor=e0aaff"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:5b0e8b,100:0a0014&height=120&section=footer" width="100%"/>
