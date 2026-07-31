@@ -11,8 +11,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=9d4edd&style=flat" />
-<img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Followers&style=flat&color=5b0e8b" />
+<img src="https://komarev.com/ghpvc/?username=manuelcyrus&label=Profile%20Views&color=9d4edd&style=flat" />
+<img src="https://img.shields.io/github/followers/manuelcyrus?label=Followers&style=flat&color=5b0e8b" />
 
 </div>
 
