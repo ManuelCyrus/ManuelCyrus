@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/64f2b8f224181003d33446b462dacf69.png" width="100%" alt="banner"/>
+<img src="assets/64f2b8f224181003d33446b462dacf69.png" width="50%" alt="banner"/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:5b0e8b,100:9d4edd&height=220&section=header&text=Manuel%20Cyrus&fontSize=60&fontColor=e0aaff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Python%20•%20React%20•%20Node.js%20•%20C%20|%20Portugal&descAlignY=55&descSize=18&descColor=c77dff" width="100%"/>
