@@ -11,21 +11,24 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=manuelcyrus&label=Profile%20Views&color=9d4edd&style=flat" />
-<img src="https://img.shields.io/github/followers/manuelcyrus?label=Followers&style=flat&color=5b0e8b" />
-
 </div>
 
 ---
 
-## 👋 About me
+> `> QUERY: PURPOSE`  
+> `> RESPONSE: LEARN. BUILD. OPTIMIZE. REPEAT.`
 
-Dedicated and curious developer, passionate about learning and exploring new technologies.
-Always striving to improve my skills and deepen my understanding of the development world.
+```yaml
+UNIT_ID: DEV-0X01
+CLASS: FULL-STACK
+DIRECTIVE: CONTINUOUS_IMPROVEMENT
+CURIOSITY_LEVEL: MAX
+STATUS: RUNNING
+```
 
-> *"Continuous learning is the key to growth and success."*
-
----
+![Rank](https://img.shields.io/badge/RANK-E--CLASS-181818?style=for-the-badge&logo=cyberdefenders&logoColor=00FF00&labelColor=000000)
+![Level](https://img.shields.io/badge/LEVEL-SYNCING...-181818?style=for-the-badge&logo=protodotio&logoColor=00FF00&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-181818?style=for-the-badge&logo=archlinux&logoColor=00FF00&labelColor=000000)
 
 
 
